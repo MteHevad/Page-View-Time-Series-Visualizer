@@ -7,5 +7,7 @@ The Page View Time Series Visualizer is a data visualization project aimed at an
 Features:
 
 Line Plot: Visualizes the page views over time, showing overall trends.
+
 Bar Plot: Displays average page views per month grouped by year.
+
 Box Plot: Compares the distribution of page views between different years and months.
